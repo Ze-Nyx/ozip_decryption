@@ -16,7 +16,7 @@ on:
 env:
   FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX1851_11_OTA_1130_all_iuygSyEV1LmI.ozip #edit link here...
   FIRMWARE_NAME: RMX1851_11_OTA_1130_all_iuygSyEV1LmI  #edit file name here, you can find the name of file from link itself...
-  FINAL_ZIP_NAME: RMX1851 #This will be the name of final zip which will be uploaded. You can leave it unchanged.
+  FINAL_ZIP_NAME: RMX1851.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
   TZ: Asia/Kolkata
 
 jobs:
